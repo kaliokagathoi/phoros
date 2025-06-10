@@ -2,9 +2,7 @@
 .venv/
 
 # Test Folder
-/test/
-
-
+/tests/
 
 # Environment variables
 .env
