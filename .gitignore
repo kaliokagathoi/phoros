@@ -1,8 +1,10 @@
 # Virtual Environment
 .venv/
 
-# Test folder
+# Test Folder
 /test/
+
+
 
 # Environment variables
 .env
